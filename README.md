@@ -5,8 +5,8 @@
 - This was accomplished through using JavaScript to add an event listener to the exisiting button, prompting the user to select their password criteria using confirm(), and creating a function that combines and randomizes user input to create the final password. 
 
 ## Screenshot
-![Screenshot of Password Generator](screencapture-mistwhit-password-generator-2.png)
-![Screenshot of Password Generator](screencapture-mistwhit-password-generator.png)
+![Screenshot of Password Generator](password-generator-screenshot-2.png)
+![Screenshot of Password Generator](password-generator-screenshot-1.png)
 
 ## Link
 https://mistwhit.github.io/password-generator
