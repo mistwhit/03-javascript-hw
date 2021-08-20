@@ -1,1 +1,7 @@
-# 03-javascript-hw
+# Password Generator
+
+## Description
+
+## Screenshot
+
+## Link
